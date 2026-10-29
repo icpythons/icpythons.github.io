@@ -1,0 +1,33 @@
+# Tap-That
+
+> Official tap-water safety ratings for towns and water systems. Each page uses that place’s own published figures. Tap-That does not fill gaps with estimates.
+
+A town page is at /{country}/{region}/{town}/. Country and region pages list the places inside them. The rating is one of Low risk, Medium risk, High risk, or Critical risk. A town with more than one water system lists each system and its own figures.
+
+Germany and Italy do not publish a safety result town by town. Those pages say the safety figure is national. Where a page gives hardness, that figure is local.
+
+The sitemap lists every page. The map, taste ratings, saved places, and near me are in the app, not in this directory.
+
+## Start here
+
+- [Home](https://icpythons.github.io/): Every country that has town pages.
+- [Sitemap](https://icpythons.github.io/sitemap.xml): Every country, region, and town URL.
+
+## Countries
+
+- [Argentina](https://icpythons.github.io/argentina/): 41 water systems, listed by region.
+- [Australia](https://icpythons.github.io/australia/): 168 water systems, listed by state.
+- [Canada](https://icpythons.github.io/canada/): 645 water systems, listed by province.
+- [Colombia](https://icpythons.github.io/colombia/): 829 water systems, listed by department.
+- [France](https://icpythons.github.io/france/): 7,607 water systems, listed by region.
+- [Germany](https://icpythons.github.io/germany/): 150 water systems, listed by state.
+- [Italy](https://icpythons.github.io/italy/): 24 water systems, listed by region.
+- [Portugal](https://icpythons.github.io/portugal/): 278 water systems, listed by region.
+- [South Africa](https://icpythons.github.io/south-africa/): 991 water systems, listed by province.
+- [Spain](https://icpythons.github.io/spain/): 2,387 water systems, listed by region.
+- [United Kingdom](https://icpythons.github.io/united-kingdom/): 90 water systems, listed by nation.
+- [United States](https://icpythons.github.io/united-states/): 9,612 water systems, listed by state.
+
+## Optional
+
+- [App](https://tap-that.netlify.app/): The map, taste ratings, saved places, and near me.

@@ -1,3 +1,7 @@
 User-agent: *
+Allow: /
+
+# Language models may read this directory.
+# A short map of the site is at /llms.txt and /llm.txt
 
 Sitemap: https://icpythons.github.io/sitemap.xml
