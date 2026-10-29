@@ -4,6 +4,8 @@
 
 A town page is at /{country}/{region}/{town}/. Country and region pages list the places inside them. The rating is one of Low risk, Medium risk, High risk, or Critical risk. A town with more than one water system lists each system and its own figures.
 
+Each country, region, and town page answers "Can I drink the tap water in {place}?" Yes means every listed water system on that page is low risk. Mixed ratings do not get a yes.
+
 Germany and Italy do not publish a safety result town by town. Those pages say the safety figure is national. Where a page gives hardness, that figure is local.
 
 The sitemap lists every page. The map, taste ratings, saved places, and near me are in the app, not in this directory.
