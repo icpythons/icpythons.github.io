@@ -12,23 +12,23 @@ The sitemap lists every page. The map, taste ratings, saved places, and near me 
 
 ## Start here
 
-- [Home](https://icpythons.github.io/): Every country that has town pages.
-- [Sitemap](https://icpythons.github.io/sitemap.xml): Every country, region, and town URL.
+- [Home](https://tapthatwatersafety.com/): Every country that has town pages.
+- [Sitemap](https://tapthatwatersafety.com/sitemap.xml): Every country, region, and town URL.
 
 ## Countries
 
-- [Argentina](https://icpythons.github.io/argentina/): 41 water systems, listed by region.
-- [Australia](https://icpythons.github.io/australia/): 168 water systems, listed by state.
-- [Canada](https://icpythons.github.io/canada/): 645 water systems, listed by province.
-- [Colombia](https://icpythons.github.io/colombia/): 829 water systems, listed by department.
-- [France](https://icpythons.github.io/france/): 7,607 water systems, listed by region.
-- [Germany](https://icpythons.github.io/germany/): 150 water systems, listed by state.
-- [Italy](https://icpythons.github.io/italy/): 24 water systems, listed by region.
-- [Portugal](https://icpythons.github.io/portugal/): 278 water systems, listed by region.
-- [South Africa](https://icpythons.github.io/south-africa/): 991 water systems, listed by province.
-- [Spain](https://icpythons.github.io/spain/): 2,387 water systems, listed by region.
-- [United Kingdom](https://icpythons.github.io/united-kingdom/): 90 water systems, listed by nation.
-- [United States](https://icpythons.github.io/united-states/): 9,612 water systems, listed by state.
+- [Argentina](https://tapthatwatersafety.com/argentina/): 41 water systems, listed by region.
+- [Australia](https://tapthatwatersafety.com/australia/): 168 water systems, listed by state.
+- [Canada](https://tapthatwatersafety.com/canada/): 645 water systems, listed by province.
+- [Colombia](https://tapthatwatersafety.com/colombia/): 829 water systems, listed by department.
+- [France](https://tapthatwatersafety.com/france/): 7,607 water systems, listed by region.
+- [Germany](https://tapthatwatersafety.com/germany/): 150 water systems, listed by state.
+- [Italy](https://tapthatwatersafety.com/italy/): 24 water systems, listed by region.
+- [Portugal](https://tapthatwatersafety.com/portugal/): 278 water systems, listed by region.
+- [South Africa](https://tapthatwatersafety.com/south-africa/): 991 water systems, listed by province.
+- [Spain](https://tapthatwatersafety.com/spain/): 2,387 water systems, listed by region.
+- [United Kingdom](https://tapthatwatersafety.com/united-kingdom/): 90 water systems, listed by nation.
+- [United States](https://tapthatwatersafety.com/united-states/): 9,612 water systems, listed by state.
 
 ## Optional
 
