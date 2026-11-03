@@ -3,6 +3,7 @@
   --bg:#f3f5f2;--surface:#fff;--ink:#14232b;--muted:#5b6b70;--line:#d9e0dd;
   --accent:#1f6f8b;--accent-ink:#fff;--accent-soft:#dcecf1;--star:#d39b14;
   --low:#1b8a5a;--med:#c98f0a;--high:#d4621f;--crit:#b8282f;
+  --sea:#d5e4ea;--land:#e6eeea;
   --f-display:"Bricolage Grotesque","Avenir Next","Segoe UI",sans-serif;
   --f-body:"Atkinson Hyperlegible",system-ui,-apple-system,sans-serif;
   --f-mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
@@ -10,7 +11,8 @@
 @media (prefers-color-scheme:dark){:root{
   --bg:#0f181c;--surface:#172328;--ink:#e6eeec;--muted:#93a4a8;--line:#27363c;
   --accent:#5fb3cf;--accent-ink:#0b1a20;--accent-soft:#1c3640;--star:#f0c040;
-  --low:#3cc184;--med:#e8b53a;--high:#ef8a4d;--crit:#ef5a62;color-scheme:dark}}
+  --low:#3cc184;--med:#e8b53a;--high:#ef8a4d;--crit:#ef5a62;
+  --sea:#0d222b;--land:#1a3038;color-scheme:dark}}
 *{box-sizing:border-box}
 [hidden]{display:none !important}
 html{-webkit-text-size-adjust:100%}
@@ -108,4 +110,22 @@ h2{font-size:22px;margin:26px 0 8px}
 .read{margin:0;padding-left:1.15em}
 .read li{margin:4px 0}
 .t-low i,i.t-low{background:var(--low)}.t-med i,i.t-med{background:var(--med)}.t-high i,i.t-high{background:var(--high)}.t-crit i,i.t-crit{background:var(--crit)}
+body.home .barIn,body.home main,body.home footer{max-width:1080px}
+body.home .crumbs{display:none}
+.stage{display:grid;grid-template-columns:minmax(0,.86fr) minmax(0,1.25fr);gap:28px 40px;align-items:center;margin:6px 0 32px}
+.stage h1{font-size:56px;line-height:.98;letter-spacing:-.04em;margin:0 0 14px;max-width:12ch}
+.stage .lead{max-width:42ch}
+.map{margin:0;background:var(--sea);border:1px solid var(--line);border-radius:18px;overflow:hidden}
+.map svg{display:block;width:100%;height:auto}
+.map figcaption{margin:0;padding:10px 14px 12px;background:var(--surface);color:var(--muted);font-size:13px}
+.world .land{fill:var(--land)}
+.world .cover{fill:color-mix(in srgb, var(--accent) 42%, var(--land));stroke:var(--sea);stroke-width:.8}
+.world a:hover .cover,.world a:focus .cover{fill:var(--accent)}
+.world .d{stroke:var(--surface);stroke-width:.6;pointer-events:none}
+.world .d.t-low{fill:var(--low)}.world .d.t-med{fill:var(--med)}.world .d.t-high{fill:var(--high)}.world .d.t-crit{fill:var(--crit)}
+body.home .cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+@media (max-width:860px){
+  .stage{grid-template-columns:1fr}
+  .stage h1{font-size:40px}
+  body.home .cards{grid-template-columns:1fr}}
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto}}
