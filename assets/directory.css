@@ -123,6 +123,18 @@ body.home .crumbs{display:none}
 .world a:hover .cover,.world a:focus .cover{fill:var(--accent)}
 .world .d{stroke:var(--surface);stroke-width:.6;pointer-events:none}
 .world .d.t-low{fill:var(--low)}.world .d.t-med{fill:var(--med)}.world .d.t-high{fill:var(--high)}.world .d.t-crit{fill:var(--crit)}
+main>.map{margin:16px 0 18px}
+.areas{background:var(--sea)}
+.areas .land{fill:var(--land);stroke:color-mix(in srgb,var(--ink) 16%,var(--sea));stroke-width:1;vector-effect:non-scaling-stroke}
+.areas a .area{fill:var(--land);stroke:var(--accent);stroke-width:1.4;vector-effect:non-scaling-stroke}
+.areas a .area.t-low{fill:color-mix(in srgb,var(--low) 62%,var(--land))}
+.areas a .area.t-high{fill:color-mix(in srgb,var(--high) 58%,var(--land))}
+.areas a .area.t-crit{fill:color-mix(in srgb,var(--crit) 58%,var(--land))}
+.areas a .pin{fill:var(--land);stroke:var(--accent);stroke-width:2;vector-effect:non-scaling-stroke}
+.areas a .pin.t-low{fill:var(--low)}.areas a .pin.t-high{fill:var(--high)}.areas a .pin.t-crit{fill:var(--crit)}
+.areas a:hover .area,.areas a:focus .area,.areas a:hover .pin,.areas a:focus .pin{fill:var(--accent)}
+.areas .frame{fill:var(--sea);stroke:var(--line);stroke-width:1;vector-effect:non-scaling-stroke}
+.areas text{fill:var(--muted);font-size:12px;font-family:var(--f-body)}
 body.home .cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
 @media (max-width:860px){
   .stage{grid-template-columns:1fr}
