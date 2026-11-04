@@ -4,9 +4,9 @@
 
 A town page is at /{country}/{region}/{town}/. Country and region pages list the places inside them. The rating is one of Low risk, Medium risk, High risk, or Critical risk. A town with more than one water system lists each system and its own figures.
 
-Each country, region, and town page answers "Can I drink the tap water in {place}?" Yes means every listed water system on that page is low risk. Mixed ratings do not get a yes.
+Each country, region, and town page answers "Can I drink the tap water in {place}?" Yes means every listed water system on that page is low risk. Mixed ratings do not get a yes. A country page that lists only some places does not answer yes for the whole country.
 
-Germany and Italy do not publish a safety result town by town. Those pages say the safety figure is national. Where a page gives hardness, that figure is local.
+Germany, Italy, Ireland, the Netherlands, Austria, Japan, and Singapore do not publish a safety result town by town. Those pages say the safety figure is national. Croatia’s national figure is medium risk, so that page does not answer yes. Greece lists the Athens supply only and does not answer yes for the whole country. Where a page gives hardness, that figure is local.
 
 The sitemap lists every page. The map, taste ratings, saved places, and near me are in the app, not in this directory.
 
@@ -19,12 +19,19 @@ The sitemap lists every page. The map, taste ratings, saved places, and near me 
 
 - [Argentina](https://tapthatwatersafety.com/argentina/): 41 water systems, listed by region.
 - [Australia](https://tapthatwatersafety.com/australia/): 168 water systems, listed by state.
+- [Austria](https://tapthatwatersafety.com/austria/): 5 water systems, listed by city.
 - [Canada](https://tapthatwatersafety.com/canada/): 645 water systems, listed by province.
 - [Colombia](https://tapthatwatersafety.com/colombia/): 829 water systems, listed by department.
+- [Croatia](https://tapthatwatersafety.com/croatia/): 6 water systems, listed by city.
 - [France](https://tapthatwatersafety.com/france/): 7,607 water systems, listed by region.
 - [Germany](https://tapthatwatersafety.com/germany/): 150 water systems, listed by state.
+- [Greece](https://tapthatwatersafety.com/greece/): 1 water system, listed by region.
+- [Ireland](https://tapthatwatersafety.com/ireland/): 5 water systems, listed by city.
 - [Italy](https://tapthatwatersafety.com/italy/): 24 water systems, listed by region.
+- [Japan](https://tapthatwatersafety.com/japan/): 10 water systems, listed by city.
+- [Netherlands](https://tapthatwatersafety.com/netherlands/): 6 water systems, listed by city.
 - [Portugal](https://tapthatwatersafety.com/portugal/): 278 water systems, listed by region.
+- [Singapore](https://tapthatwatersafety.com/singapore/): 1 water system, listed by city.
 - [South Africa](https://tapthatwatersafety.com/south-africa/): 991 water systems, listed by province.
 - [Spain](https://tapthatwatersafety.com/spain/): 2,387 water systems, listed by region.
 - [United Kingdom](https://tapthatwatersafety.com/united-kingdom/): 90 water systems, listed by nation.

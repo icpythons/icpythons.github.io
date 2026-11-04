@@ -222,6 +222,13 @@
   <url><loc>https://tapthatwatersafety.com/australia/western-australia/mandurah/</loc></url>
   <url><loc>https://tapthatwatersafety.com/australia/western-australia/perth/</loc></url>
   <url><loc>https://tapthatwatersafety.com/australia/western-australia/rockingham/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/austria/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/austria/nationwide/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/austria/nationwide/graz/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/austria/nationwide/innsbruck/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/austria/nationwide/linz/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/austria/nationwide/salzburg/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/austria/nationwide/vienna/</loc></url>
   <url><loc>https://tapthatwatersafety.com/canada/</loc></url>
   <url><loc>https://tapthatwatersafety.com/canada/ontario/</loc></url>
   <url><loc>https://tapthatwatersafety.com/canada/ontario/a-l-dafoe-greater-napanee/</loc></url>
@@ -1716,6 +1723,14 @@
   <url><loc>https://tapthatwatersafety.com/colombia/sucre/coloso/</loc></url>
   <url><loc>https://tapthatwatersafety.com/colombia/sucre/palmito/</loc></url>
   <url><loc>https://tapthatwatersafety.com/colombia/sucre/san-juan-de-betulia/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/croatia/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/croatia/nationwide/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/croatia/nationwide/dubrovnik/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/croatia/nationwide/osijek/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/croatia/nationwide/rijeka/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/croatia/nationwide/split/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/croatia/nationwide/zadar/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/croatia/nationwide/zagreb/</loc></url>
   <url><loc>https://tapthatwatersafety.com/france/</loc></url>
   <url><loc>https://tapthatwatersafety.com/france/auvergne-rhone-alpes/</loc></url>
   <url><loc>https://tapthatwatersafety.com/france/auvergne-rhone-alpes/abondance/</loc></url>
@@ -9480,6 +9495,16 @@
   <url><loc>https://tapthatwatersafety.com/germany/thuringia/gera/</loc></url>
   <url><loc>https://tapthatwatersafety.com/germany/thuringia/jena/</loc></url>
   <url><loc>https://tapthatwatersafety.com/germany/thuringia/weimar/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/greece/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/greece/attica/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/greece/attica/athens/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/ireland/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/ireland/nationwide/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/ireland/nationwide/cork/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/ireland/nationwide/dublin/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/ireland/nationwide/galway/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/ireland/nationwide/limerick/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/ireland/nationwide/waterford/</loc></url>
   <url><loc>https://tapthatwatersafety.com/italy/</loc></url>
   <url><loc>https://tapthatwatersafety.com/italy/apulia/</loc></url>
   <url><loc>https://tapthatwatersafety.com/italy/apulia/bari/</loc></url>
@@ -9518,6 +9543,26 @@
   <url><loc>https://tapthatwatersafety.com/italy/veneto/padua/</loc></url>
   <url><loc>https://tapthatwatersafety.com/italy/veneto/venice/</loc></url>
   <url><loc>https://tapthatwatersafety.com/italy/veneto/verona/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/japan/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/japan/nationwide/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/japan/nationwide/fukuoka/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/japan/nationwide/hiroshima/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/japan/nationwide/kobe/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/japan/nationwide/kyoto/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/japan/nationwide/nagoya/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/japan/nationwide/osaka/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/japan/nationwide/sapporo/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/japan/nationwide/sendai/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/japan/nationwide/tokyo/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/japan/nationwide/yokohama/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/netherlands/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/netherlands/nationwide/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/netherlands/nationwide/amsterdam/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/netherlands/nationwide/eindhoven/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/netherlands/nationwide/groningen/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/netherlands/nationwide/rotterdam/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/netherlands/nationwide/the-hague/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/netherlands/nationwide/utrecht/</loc></url>
   <url><loc>https://tapthatwatersafety.com/portugal/</loc></url>
   <url><loc>https://tapthatwatersafety.com/portugal/alentejo/</loc></url>
   <url><loc>https://tapthatwatersafety.com/portugal/alentejo/alandroal/</loc></url>
@@ -9804,6 +9849,9 @@
   <url><loc>https://tapthatwatersafety.com/portugal/peninsula-de-setubal/seixal/</loc></url>
   <url><loc>https://tapthatwatersafety.com/portugal/peninsula-de-setubal/sesimbra/</loc></url>
   <url><loc>https://tapthatwatersafety.com/portugal/peninsula-de-setubal/setubal/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/singapore/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/singapore/nationwide/</loc></url>
+  <url><loc>https://tapthatwatersafety.com/singapore/nationwide/singapore/</loc></url>
   <url><loc>https://tapthatwatersafety.com/south-africa/</loc></url>
   <url><loc>https://tapthatwatersafety.com/south-africa/eastern-cape/</loc></url>
   <url><loc>https://tapthatwatersafety.com/south-africa/eastern-cape/aberdeen/</loc></url>
