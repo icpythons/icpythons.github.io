@@ -6,6 +6,10 @@ A town page is at /{country}/{region}/{town}/. Country and region pages list the
 
 Each country, region, and town page answers "Can I drink the tap water in {place}?" Yes means every listed water system on that page is low risk. Mixed ratings do not get a yes. A country page that lists only some places does not answer yes for the whole country.
 
+Pages in French, German, Spanish, Portuguese, Italian, Croatian, Greek, Japanese, Dutch, Irish, and Malay use the same path with /fr/, /de/, /es/, /pt/, /it/, /hr/, /el/, /ja/, /nl/, /ga/, or /ms/ in front. A town with a hardness figure also answers "How hard is the tap water in {place}?"
+
+Argentina uses the Spanish pages. Austria uses the German pages. Canada has French pages as well as English. The United States, the United Kingdom, Australia, and South Africa stay in English.
+
 Germany, Italy, Ireland, the Netherlands, Austria, Japan, and Singapore do not publish a safety result town by town. Those pages say the safety figure is national. Croatia’s national figure is medium risk, so that page does not answer yes. Greece lists the Athens supply only and does not answer yes for the whole country. Where a page gives hardness, that figure is local.
 
 The sitemap lists every page. The map, taste ratings, saved places, and near me are in the app, not in this directory.
